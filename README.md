@@ -160,12 +160,16 @@ Understood how pricing, rating, and location influence hotel performance.
 
 📝 Repository Contents
 📁 Bali Hotels Data Analysis & Insights
-│
-├── bali_hotels_data.csv
-├── web_scraping.ipynb
-├── eda_and_visualization.ipynb
-├── EDA_Presentation_Bali_Hotels.pptx
-└── README.md
+
+bali_hotels_data.csv
+
+web_scraping.ipynb
+
+eda_and_visualization.ipynb
+
+EDA_Presentation_Bali_Hotels.pptx
+
+README.md
 
 
 ✅ Conclusion
