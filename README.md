@@ -161,15 +161,12 @@ Understood how pricing, rating, and location influence hotel performance.
 📝 Repository Contents
 📁 Bali Hotels Data Analysis & Insights
 │
-├── "C:\Users\ompra\OneDrive\Desktop\EDA PROJ\bali_hotels_data.csv"
-
-├── "C:\Users\ompra\OneDrive\Desktop\EDA PROJ\web scrapping on traveltriangle (1).ipynb"
-
-├── "C:\Users\ompra\OneDrive\Desktop\EDA PROJ\eda and visualization .ipynb"
-
-├── "C:\Users\ompra\Downloads\eda ppt on bali Hotels'.pptx"
-
+├── bali_hotels_data.csv
+├── web_scraping.ipynb
+├── eda_and_visualization.ipynb
+├── EDA_Presentation_Bali_Hotels.pptx
 └── README.md
+
 
 ✅ Conclusion
 
