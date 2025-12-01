@@ -2,7 +2,6 @@
 🏨 Bali Hotels Data Analysis & Insights
 
 Author: Talasila Om Prakash
-Batch: 422
 
 This repository contains the complete workflow of web scraping, data cleaning, and exploratory data analysis (EDA) performed on Bali hotel listings. The goal is to uncover meaningful insights about hotel pricing, ratings, locations, and guest experiences.
 
@@ -163,9 +162,13 @@ Understood how pricing, rating, and location influence hotel performance.
 📁 Bali Hotels Data Analysis & Insights
 │
 ├── "C:\Users\ompra\OneDrive\Desktop\EDA PROJ\bali_hotels_data.csv"
+
 ├── "C:\Users\ompra\OneDrive\Desktop\EDA PROJ\web scrapping on traveltriangle (1).ipynb"
+
 ├── "C:\Users\ompra\OneDrive\Desktop\EDA PROJ\eda and visualization .ipynb"
+
 ├── "C:\Users\ompra\Downloads\eda ppt on bali Hotels'.pptx"
+
 └── README.md
 
 ✅ Conclusion
