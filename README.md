@@ -163,11 +163,11 @@ Understood how pricing, rating, and location influence hotel performance.
 
 bali_hotels_data.csv
 
-web_scraping.ipynb
+web scrapping on traveltriangle (1).ipynb
 
-eda_and_visualization.ipynb
+eda and visualization .ipynb
 
-EDA_Presentation_Bali_Hotels.pptx
+eda ppt on bali Hotels'.pptx
 
 README.md
 
