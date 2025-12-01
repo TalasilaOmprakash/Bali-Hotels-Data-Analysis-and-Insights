@@ -159,6 +159,7 @@ Gained expertise in creating visualizations using:
 Understood how pricing, rating, and location influence hotel performance.
 
 📝 Repository Contents
+
 📁 Bali Hotels Data Analysis & Insights
 
 bali_hotels_data.csv
